@@ -1,4 +1,4 @@
-local update = false
+local update = true
 
 if update == true then
     game.Players.LocalPlayer:Kick("Update Script:   https://discord.gg/GJS3mCDCgk")
