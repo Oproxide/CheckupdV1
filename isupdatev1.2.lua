@@ -1,4 +1,4 @@
-local update = true
+local update = false
 
 if update == true then
     game.Players.LocalPlayer:Kick("Update Script: Join Xen")
