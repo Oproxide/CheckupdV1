@@ -1,7 +1,7 @@
 local update = true
 
 if update == true then
-    game.Players.LocalPlayer:Kick("Update Script:   https://discord.gg/GJS3mCDCgk")
+    game.Players.LocalPlayer:Kick("Update Script: Join Xen")
 else
     game:GetService("StarterGui"):SetCore("SendNotification",{
 	Title = "Newest verison required!",
